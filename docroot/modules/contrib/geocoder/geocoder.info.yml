@@ -1,0 +1,12 @@
+name: Geocoder
+type: module
+description: Converts strings into lat/lon.
+# version: 8.1-dev
+# core: 8.x
+package: Geo
+
+# Information added by Drupal.org packaging script on 2014-10-02
+version: '8.x-1.x-dev'
+core: '8.x'
+project: 'geocoder'
+datestamp: 1412268620
